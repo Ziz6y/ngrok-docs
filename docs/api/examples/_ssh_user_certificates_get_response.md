@@ -4,22 +4,22 @@
 
 ```json
 {
-	"certificate": "ecdsa-sha2-nistp256-cert-v01@openssh.com AAAAKGVjZHNhLXNoYTItbmlzdHAyNTYtY2VydC12MDFAb3BlbnNzaC5jb20AAAAgAIr78o8G29EK+fOcXwHj02D3tvO+KWEQiXqou6AzuzsAAAAIbmlzdHAyNTYAAABBBK58lFzmWlDimDtBz78wVT4oauA8PjY0CiXTCEIsBNC6UwOJvZ0jdSaYNhDaa7dRV84DfBb/gKzqlXC7cVMZjl0AAAAAAAAAAAAAAAEAAAAhc3VjcnRfMnA4OHJJenBITjZQTmRSWWhnM2RwREFybG9pAAAAFAAAAAhlYzItdXNlcgAAAARyb290AAAAAGc+TlsAAAAAZ7T1WwAAAAAAAAAoAAAACnBlcm1pdC1wdHkAAAAAAAAADnBlcm1pdC11c2VyLXJjAAAAAAAAAAAAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIFGF+qcIdB3D7SuBMUPKO8p38UKFocljPL6CtHPWrwSnAAAAUwAAAAtzc2gtZWQyNTUxOQAAAEDXKMe36oXWGDkEqHijpxBUUnADXIemRHHgUenTs6jEhma40mzz+qGwzxWJORZ7xgNEeFtjw9iG++bImbcLcxAC sucrt_2p88rIzpHN6PNdRYhg3dpDArloi",
-	"created_at": "2024-11-20T21:02:19Z",
+	"certificate": "ecdsa-sha2-nistp256-cert-v01@openssh.com AAAAKGVjZHNhLXNoYTItbmlzdHAyNTYtY2VydC12MDFAb3BlbnNzaC5jb20AAAAg57EhH3/MVWfJ/LCeWGVNcK2+Vgl38CiPltQ5UGpvKowAAAAIbmlzdHAyNTYAAABBBK58lFzmWlDimDtBz78wVT4oauA8PjY0CiXTCEIsBNC6UwOJvZ0jdSaYNhDaa7dRV84DfBb/gKzqlXC7cVMZjl0AAAAAAAAAAAAAAAEAAAAhc3VjcnRfMnBRZDJxVUROUktsbU5pR2JEckJlaHExNmoyAAAAFAAAAAhlYzItdXNlcgAAAARyb290AAAAAGdG70wAAAAAZ72WTAAAAAAAAAAoAAAACnBlcm1pdC1wdHkAAAAAAAAADnBlcm1pdC11c2VyLXJjAAAAAAAAAAAAAAAzAAAAC3NzaC1lZDI1NTE5AAAAILUl5fBEBflRCsOX2r3mFp3qDOi41sJ9BKH6xtMxWtlQAAAAUwAAAAtzc2gtZWQyNTUxOQAAAEDuNaD35ODx09X76vwpAK+s+UF0wKDVBrlV+eJKWoCLB80EJHHwQfMjRvStX5rqkvNZI26L7dJhCqL6NAAmh/UB sucrt_2pQd2qUDNRKlmNiGbDrBehq16j2",
+	"created_at": "2024-11-27T10:07:08Z",
 	"critical_options": {},
 	"description": "temporary access to staging machine for alan",
 	"extensions": {
 		"permit-pty": "",
 		"permit-user-rc": ""
 	},
-	"id": "sucrt_2p88rIzpHN6PNdRYhg3dpDArloi",
+	"id": "sucrt_2pQd2qUDNRKlmNiGbDrBehq16j2",
 	"key_type": "ecdsa",
 	"metadata": "{\"user_email\": \"alan@example.com\"}",
 	"principals": ["ec2-user", "root"],
 	"public_key": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBK58lFzmWlDimDtBz78wVT4oauA8PjY0CiXTCEIsBNC6UwOJvZ0jdSaYNhDaa7dRV84DfBb/gKzqlXC7cVMZjl0= alan@work-laptop",
-	"ssh_certificate_authority_id": "sshca_2p88rJjmqMHWGWzMTTuvzSTr05V",
-	"uri": "https://api.ngrok.com/ssh_user_certificates/sucrt_2p88rIzpHN6PNdRYhg3dpDArloi",
-	"valid_after": "2024-11-20T21:02:19Z",
-	"valid_until": "2025-02-18T21:02:19Z"
+	"ssh_certificate_authority_id": "sshca_2pQd2tdWFEGzKhDi1IojJktGzbe",
+	"uri": "https://api.ngrok.com/ssh_user_certificates/sucrt_2pQd2qUDNRKlmNiGbDrBehq16j2",
+	"valid_after": "2024-11-27T10:07:08Z",
+	"valid_until": "2025-02-25T10:07:08Z"
 }
 ```
